@@ -1,0 +1,13 @@
+{
+    "start" : "Welcome! Please enter the password to continue.",
+    "authorized" : "Successfully authorized.",
+    "default_langauge" : "en-US",
+    "pick_language": "Pick a language of your choice.",
+
+    "en-US" : "Send your question in a voice message.",
+    "es-ES" : "Envía tu pregunta en un mensaje de voz.",
+    "de-DE" : "Senden Sie Ihre Frage in einer Sprachnachricht.",
+    "it-IT" : "Invia la tua domanda in un messaggio vocale.",
+    "tr-TR" : "Sorunuzu sesli mesajla gönderin.",
+    "ru-RU" : "Отправьте свой вопрос в голосовом сообщении."
+}
